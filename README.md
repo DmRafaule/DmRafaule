@@ -13,6 +13,7 @@ Hello guest, my name is Dmitry. And I'm thinking I am a good programmer
 1. Email: ChedrDen@gmail.com
 2. Discord: Dimond#8549
 3. Telegram: DmitryChedr
+4. Twitter: @TimaChuduk
 
 
 
